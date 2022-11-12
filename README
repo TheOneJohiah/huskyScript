@@ -1,0 +1,2 @@
+A possible test to run
+./hscript /bin/echo "hello world" dump
